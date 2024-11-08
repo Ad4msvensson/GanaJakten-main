@@ -15,16 +15,16 @@
     ],
     "screenshots": [
         {
-          "src": "styles/icon-144x144.png",
-          "sizes": "144x144",
+          "src": "styles/failed.png",
+          "sizes": "1280x720",
           "type": "image/png",
           "form_factor": "wide"
         }
       ],
     "screenshots": [
         {
-          "src": "styles/icon-144x144.png",
-          "sizes": "144x144",
+          "src": "styles/failed.png",
+          "sizes": "1280x720",
           "type": "image/png"
         }
       ]
