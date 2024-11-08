@@ -4,7 +4,7 @@ import 'cypress-axe';
 describe('Accessibility Testing', () => {
   beforeEach(() => {
     // Visit the page you want to test
-    cy.visit('your-page-url');
+    cy.visit('https://ad4msvensson.github.io/PWA-personlig/');
     // Inject the Axe-core library into the page
     cy.injectAxe();
   });
