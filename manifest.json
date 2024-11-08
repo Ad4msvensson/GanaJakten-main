@@ -15,7 +15,7 @@
     ],
     "screenshots": [
         {
-          "src": "/styles/failed.png",
+          "src": "styles/failed.png",
           "sizes": "1280x720",
           "type": "image/png",
           "form_factor": "wide"
