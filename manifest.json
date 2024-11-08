@@ -2,10 +2,16 @@
     "name": "EXPRESS-AND-SASS",
     "description": "Awesome application that will help you achieve your dreams.",
     "short_name": "Doc",
-    "start_url": "/index.html",
-    "display": "browser",
+    "start_url": "index.html",
+    "display": "standalone",
     "background_color": "#FFE9D2",
     "theme_color": "#FFe1C4",
     "orientation": "portrait-primary",
-    "icons": [    ]
+    "icons": [
+        {
+            "src": "icon-192x192.png",
+            "type": "png",
+            "sizes": "192x192"
+        }
+    ]
 }
