@@ -16,7 +16,7 @@
     "screenshots": [
         {
           "src": "styles/icon-144x144.png",
-          "sizes": "144x144.png",
+          "sizes": "144x144",
           "type": "image/png",
           "form_factor": "wide"
         }
@@ -24,9 +24,8 @@
     "screenshots": [
         {
           "src": "styles/icon-144x144.png",
-          "sizes": "144x144.png",
-          "type": "image/png",
-          "form_factor": ""
+          "sizes": "144x144",
+          "type": "image/png"
         }
       ]
 }
